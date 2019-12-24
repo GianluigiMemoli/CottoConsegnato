@@ -10,10 +10,10 @@ It provides the management of three kinds of users:
 Basically, the restaurant client after the registration can search for nearby restaurants(the research is super silly, based on province field),
 order from them (of course he can see order status) and add payment methods. 
 
-###Restaurant owner 
+### Restaurant owner 
 A Restaurateur can register his restaurant, add or edit a menu, manage orders (accept or dismiss) and so on.. 
 
-###Platform admin 
+### Platform admin 
 An admin in this case can manage the requests of restaurant registration from restaurateurs. 
 
 The frontend uses JSPs, combined with HTML/CSS/JS and Bootstrap4 for responsiveness. 
@@ -21,16 +21,16 @@ The Backend is based on Java's Servlet, all is locally hosted on an Apache Tomca
 
 Some client's views
 ## Login 
-![alt text](https://github.com/GianluigiMemoli/CottoConsegnato/Login.png "Login")
+![alt text](https://github.com/GianluigiMemoli/CottoConsegnato/blob/master/Login.png "Login")
 
 ## Client Home 
-![alt text](https://github.com/GianluigiMemoli/CottoConsegnato/ClientHome.png "Home")
+![alt text](https://github.com/GianluigiMemoli/CottoConsegnato/blob/master/ClientHome.png "Home")
 
 ## Menu view 
-![alt text](https://github.com/GianluigiMemoli/CottoConsegnato/MenuView.png "MenuView")
+![alt text](https://github.com/GianluigiMemoli/CottoConsegnato/blob/master/MenuView.png "MenuView")
 
 ## Checkout 
-![alt text](https://github.com/GianluigiMemoli/CottoConsegnato/CheckoutView.png "CheckoutView")
+![alt text](https://github.com/GianluigiMemoli/CottoConsegnato/blob/master/CheckoutView.png "CheckoutView")
 
 
 
