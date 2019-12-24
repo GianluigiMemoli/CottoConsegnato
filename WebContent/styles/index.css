@@ -1,0 +1,33 @@
+html, body{
+	background: rgb(145, 199, 177);
+	background: linear-gradient(106deg, rgba(145, 199, 177, 1) 0%, rgba(227, 208, 129, 1) 100%, rgba(200, 85, 61, 1) 100%);
+}
+
+#index_container {
+	color: white;
+}
+
+#btnl{
+	font-size: 200%;
+	line-height: 2;
+	width: 80%;
+	border-radius: 0;
+	color: white;
+	border-color: white;
+	border: solid white 3px;
+}
+#btnr{
+	font-size: 200%;
+	line-height: 2;
+	width: 80%;
+	border-radius: 0;
+	color: white;
+	border-color: white;
+	border: solid white 3px;
+
+}
+
+#btnr:hover, #btnl:hover{
+	background: rgb(145, 199, 177);
+	background: linear-gradient(106deg, rgba(145, 199, 177, 1) 0%, rgba(227, 208, 129, 1) 100%, rgba(200, 85, 61, 1) 100%);
+}

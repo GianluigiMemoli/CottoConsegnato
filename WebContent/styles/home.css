@@ -1,0 +1,48 @@
+#card-search {
+	width: 60%;
+	text-align: center;
+
+}
+
+.img-frame {
+	width: 100px;
+	height: 100px;
+	overflow: hidden;
+	position: relative;
+}
+
+.icon {
+	height: 100px;
+	position: absolute;
+}
+
+
+#filters-container {
+	width: 70%;
+}
+
+#flex-container{
+	justify-content: flex-start;
+}
+
+@media (max-width: 767.98px) {
+	#flex-container {
+		flex-direction: column;
+		justify-content: center;
+	}
+
+	#navigation-container {
+		order: 1;
+	}
+
+	#filters-container {
+		order: 2;
+	}
+
+	#rest-container {
+		order: 3;
+	}
+
+
+
+}

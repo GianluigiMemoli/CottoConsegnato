@@ -1,0 +1,31 @@
+a {
+	color: black;
+}
+.click-cursor:hover{
+	cursor: pointer;
+}
+
+
+.animate-appearing{
+	animation: appearing 0.5s;
+}
+
+.to-align{
+	line-height: 0;
+}
+
+@keyframes appearing{
+	0%{
+		opacity: 0;
+		margin-top:100%;
+	}
+
+	50%{
+		opacity: 0.5;
+	}
+
+	auto {
+		opacity: 1;
+		margin-top:0%;
+	}
+}

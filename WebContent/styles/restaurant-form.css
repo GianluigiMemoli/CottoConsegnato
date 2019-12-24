@@ -1,0 +1,57 @@
+#sendFormBtn{
+	margin-top: 2em; 
+}
+
+
+#card-form{
+	width: 80%; 
+	margin-top: 2em;
+}
+
+input[name="restaurantProvince"]{
+	width: 5em;
+}
+
+
+
+/* For Firefox */
+input[type='number'] {
+    -moz-appearance:textfield;
+}
+/* Webkit browsers like Safari and Chrome */
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+#allergene-div{
+	margin-top: 10%;
+}
+
+.ingredient-name{
+	line-height: 2; 	
+}
+
+@media screen and (max-width: 320px){
+	#ingredients-list{
+		width: 100%;
+	}
+} 
+
+#ingredients-list{
+		width: 50%;
+	}
+
+.fa-minus{
+	 color: #C8553D;
+}
+
+.allergen{
+	font-weight: bold;
+}
+
+datalist{
+	color: black; 
+	background-color: #FFFFFF;  
+}

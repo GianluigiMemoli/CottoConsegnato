@@ -1,0 +1,29 @@
+html, body{
+    height: 100%; 
+}
+
+#col-collapsable{
+    min-height: 100vh;
+    max-height: auto;	
+    transition: margin 0.25s linear; 
+}
+
+
+.hide-menu{
+    margin-left: -100%;
+}
+
+.show-menu{
+    margin-left: 0;
+}
+
+.show-menu-label{
+    margin-top: 0;
+    margin-left: -1em;
+     
+    background-color: #54494B; 
+    width: 3em;
+    text-align: center;
+    color: white; 
+    border-bottom-right-radius: 50%;
+}
