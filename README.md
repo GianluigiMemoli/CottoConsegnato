@@ -26,9 +26,6 @@ Some client's views
 ## Client Home 
 ![alt text](https://github.com/GianluigiMemoli/CottoConsegnato/blob/master/ClientHome.png "Home")
 
-## Menu view 
-![alt text](https://github.com/GianluigiMemoli/CottoConsegnato/blob/master/MenuView.png "MenuView")
-
 ## Checkout 
 ![alt text](https://github.com/GianluigiMemoli/CottoConsegnato/blob/master/CheckoutView.png "CheckoutView")
 
